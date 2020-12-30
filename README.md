@@ -8,6 +8,6 @@ Temperature Extruder: 215°C
 Layer: 0.2mm
 Infill: 20%
 Solid Layers: 3
-Support: yes
+-Support: yes
 
 
